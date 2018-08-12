@@ -1,1 +1,3 @@
-puts "hello world"
+"hello world"
+
+var = hello_world
